@@ -1,1 +1,1 @@
-A cidade na arte e a arte na cidade: Vistas urbanas no Brasil do século XIX
+A cidade na arte e a arte na cidade: Vistas urbanas no Brasil nos Salões de Belas Artes do século XIX
