@@ -12,6 +12,11 @@ Esse discurso, pautado, segundo Fedatto,
 pelo princípio de uma "singularidade brasileira" \cite{Fedatto_2013},
 oscila entre a afirmação de uma identidade nacional fixa
 e o conformismo diante da natureza sobrepujando a civilização.
+
 Ambas abordagens se refletem nas pacatas vistas urbanas
 produzidas pelos artistas brasileiros e estrangeiros ao longo
 da maior parte do século XIX.
+Em contraste com as academias europeias,
+defensoras da hierarquia dos gêneros de pintura,
+o contexto artístico brasileiro era de predomínio
+da pintura de gênero e, secundariamente, da paisagem \cite{Squeff_2012}.
