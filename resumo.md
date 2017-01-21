@@ -34,3 +34,19 @@ modorrento retrato do atraso nacional \cite{Bernd_1992}.
 A presente pesquisa desconstrói essa imagem,
 apontando o *locus* ideológico e estético da vista urbana
 no entendimento do que seja a natureza da cidade brasileira.
+
+De um lado, afirma-se o papel político que tem a vista urbana
+na elaboração de uma ordem administrativa centralista
+e hierarquizada --- evidenciada pela predominância de panoramas
+de cidades administrativas e, dentro dessas,
+de palácios governamentais ou igrejas associadas ao poder imperial.
+Do outro, resgata-se a categoria estética do sublime \cite{Naxara_2004}
+como contraponto ao totalitarismo da mensagem política.
+Nesse registro, a cidade brasileira é apropriada enquanto
+intromissão de um ideal civilizador na onipotência da Natureza,
+percebida, em última análise, como o elemento definidor do Brasil.
+
+Paradoxalmente, é com a influência do impressionismo e do realismo
+na pintura brasileira que se perde essa dupla leitura
+do projeto civilizador e de sua limitação diante do sublime.
+Nesse momento, ao final do século XIX, as perspectivas se restringem,
