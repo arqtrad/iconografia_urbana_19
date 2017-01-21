@@ -22,7 +22,15 @@ o contexto artístico brasileiro era de predomínio
 da pintura de gênero e, secundariamente, da paisagem \cite{Squeff_2012}.
 Esses dois domínios se confundem na representação de cenas urbanas,
 que gozam, no Brasil, de papel informativo e estético peculiar.
+
 Como uma espécie de *exotismo para dentro*, essas obras,
 expostas nos Salões de Belas Artes ou compondo coleções particulares,
 tecem um discurso político e etnográfico sobre
 a cidade real vivenciada pelo artista e a civilização urbana por ele imaginada.
+A literatura do início do século XX, programaticamente comprometida com
+um projeto de modernização cultural, teve relativo sucesso em
+relegar essa figuração da civilização oitocentista ao papel de
+modorrento retrato do atraso nacional \cite{Bernd_1992}.
+A presente pesquisa desconstrói essa imagem,
+apontando o *locus* ideológico e estético da vista urbana
+no entendimento do que seja a natureza da cidade brasileira.
