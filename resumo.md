@@ -37,7 +37,7 @@ no entendimento do que seja a natureza da cidade brasileira.
 
 De um lado, afirma-se o papel político que tem a vista urbana
 na elaboração de uma ordem administrativa centralista
-e hierarquizada --- evidenciada pela predominância de panoramas
+e hierarquizada — evidenciada pela predominância de panoramas
 de cidades administrativas e, dentro dessas,
 de palácios governamentais ou igrejas associadas ao poder imperial.
 Do outro, resgata-se a categoria estética do sublime \cite{Naxara_2004}
@@ -46,7 +46,17 @@ Nesse registro, a cidade brasileira é apropriada enquanto
 intromissão de um ideal civilizador na onipotência da Natureza,
 percebida, em última análise, como o elemento definidor do Brasil.
 
+Trata-se, ao mesmo tempo, de uma visão que aplasta as diferenças
+políticas, sociais e regionais.
+A cidade é apresentada sob o prisma de sua unidade num panorama distante
+ou na representatividade de um monumento, ao passo que
+os conflitos sociais e a identidade dos lugares
+— capturados pelos viajantes estrangeiros do início do século XIX —
+desaparecem temporariamente do registro visual.
 Paradoxalmente, é com a influência do impressionismo e do realismo
 na pintura brasileira que se perde essa dupla leitura
 do projeto civilizador e de sua limitação diante do sublime.
 Nesse momento, ao final do século XIX, as perspectivas se restringem,
+a fotografia documenta os estertores de um regime político,
+da instituição escravista e de bairros inteiros apagados pela
+marcha do progresso republicano.
