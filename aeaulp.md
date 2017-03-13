@@ -478,7 +478,7 @@ Referências bibliográficas
 [^1]: Destaque para a coletânea organizada por Salgado e Bertoni,
 com alguns textos inovadores sobre o processo de urbanização
 e saberes técnicos em São Paulo no século XIX
-[@salgado:2012construcao].
+[@salgado:2010construcao].
 
 [^2]: Possivelmente com importante participação de seu pai,
 segundo Elaine Dias [-@dias:2011felixemile, p.\ 145--146].
