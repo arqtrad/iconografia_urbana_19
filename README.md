@@ -1,9 +1,10 @@
 A cidade na arte e a arte na cidade: Vistas urbanas no Brasil do século XIX
 ===========================================================================
 
-Texto completo disponível nos anais do seminário
-internacional [_A língua que habitamos_, v.
-5](http://aeaulp.com/alinguaquehabitamos/images/VOLUME_5.pdf)
+Texto completo disponível nos anais do IV seminário
+internacional das Academias de Arquitetura e Urbanismo de
+Língua Portuguesa, [_A língua que habitamos_, v.
+5](http://aeaulp.com/alinguaquehabitamos/index.php/pt/publicacao)
 
 Durante o século XIX, artistas e viajantes estavam intensamente
 explorando o contexto natural e cultural do Brasil.
