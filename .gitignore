@@ -1,35 +1,12 @@
-############################################################
+## Generated binary files (PDF, Word, etc.) go here
+_output
 
-# Gitbook from https://github.com/github/gitignore/blob/master/GitBook.gitignore
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
-
-# Book build output
-_book
-
-# eBook build output
-*.epub
-*.mobi
-*.pdf
-
-############################################################
-
-# Jekyll
+## Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-vendor
 
-############################################################
-
-# TeX gitignore from https://github.com/github/gitignore/blob/master/TeX.gitignore
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -72,10 +49,6 @@ vendor
 *.synctex.gz(busy)
 *.pdfsync
 
-## Build tool directories for auxiliary files
-# latexrun
-latex.out/
-
 ## Auxiliary and intermediate files from other packages:
 # algorithms
 *.alg
@@ -95,9 +68,6 @@ acs-*.bib
 
 # changes
 *.soc
-
-# comment
-*.cut
 
 # cprotect
 *.cpt
@@ -141,11 +111,6 @@ acs-*.bib
 *.glo
 *.gls
 *.glsdefs
-*.lzo
-*.lzs
-
-# uncomment this for glossaries-extra (will ignore makeindex's style files!)
-# *.ist
 
 # gnuplottex
 *-gnuplottex-*
@@ -174,13 +139,11 @@ acs-*.bib
 # listings
 *.lol
 
-# luatexja-ruby
-*.ltjruby
-
 # makeidx
 *.idx
 *.ilg
 *.ind
+*.ist
 
 # minitoc
 *.maf
@@ -230,9 +193,6 @@ sympy-plots-for-*.tex/
 *.pytxcode
 pythontex-files-*/
 
-# tcolorbox
-*.listing
-
 # thmtools
 *.loe
 
@@ -244,15 +204,8 @@ pythontex-files-*/
 # todonotes
 *.tdo
 
-# vhistory
-*.hst
-*.ver
-
 # easy-todo
 *.lod
-
-# xcolor
-*.xcp
 
 # xmpincl
 *.xmpi
@@ -260,9 +213,8 @@ pythontex-files-*/
 # xindy
 *.xdy
 
-# xypic precompiled matrices and outlines
+# xypic precompiled matrices
 *.xyc
-*.xyd
 
 # endfloat
 *.ttt
@@ -279,20 +231,11 @@ TSWLatexianTemp*
 # Texpad
 .texpadtmp
 
-# LyX
-*.lyx~
-
 # Kile
 *.backup
 
-# gummi
-.*.swp
-
 # KBibTeX
 *~[0-9]*
-
-# TeXnicCenter
-*.tps
 
 # auto folder when using emacs and auctex
 ./auto/*
@@ -304,7 +247,5 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
-# Makeindex log files
-*.lpz
-
-############################################################
+# generated if using elsarticle.cls
+*.spl
