@@ -1,6 +1,14 @@
 Introdução
 ==========
 
+Na segunda metade do século XIX, adquirem destaque na crítica
+literária e a crônica jornalística no Brasil os comentários sobre as
+belas-artes, a arquitetura e a cidade. A crítica da cidade enquanto
+gênero literário assume, de modo ainda mais explícito e programático
+do que os discursos técnicos sobre o crescimento e as reformas
+urbanas, a formulação ideológica do caráter nacional como ponto de
+partida, quando não como objetivo a ser atingido.
+
 Apesar de suas divergências estéticas, modernistas e tradicionalistas
 do final do século XIX até o início do XX tinham ao menos uma
 posição em comum:
@@ -9,8 +17,8 @@ da segunda metade do século XIX um caráter devidamente nacional.
 
 * * * * * * * * *
 
-This postulate was partly refuted in Portuguese-language scholarship
-published since the 1960s, exposing the persistence of colonial-era
+This postulate was partly refuted in Portuguese language scholarship
+published since the 1960s, exposing the persistence of colonial era
 patterns in the hinterland and, in a few cases, in urban settings.
 
 * * * * * * * * *

@@ -1,3 +1,4 @@
+metadata.yaml
 intro.md
 carater.md
 queda.md
