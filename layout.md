@@ -2,6 +2,8 @@ intro.md
 carater.md
 queda.md
 reconstruindo.md
+vistas.md
+natureza.md
 modernidade.md
 profissional.md
 conclusao.md
