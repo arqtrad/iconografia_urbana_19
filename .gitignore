@@ -1,5 +1,6 @@
 ## Generated binary files (PDF, Word, etc.) go here
-_output
+_entrega/
+_recebido/
 
 ## Jekyll
 _site/

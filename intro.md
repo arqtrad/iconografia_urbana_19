@@ -1,19 +1,58 @@
 Introdução
 ==========
 
-Na segunda metade do século XIX, adquirem destaque na crítica
-literária e a crônica jornalística no Brasil os comentários sobre as
-belas-artes, a arquitetura e a cidade. A crítica da cidade enquanto
-gênero literário assume, de modo ainda mais explícito e programático
-do que os discursos técnicos sobre o crescimento e as reformas
-urbanas, a formulação ideológica do caráter nacional como ponto de
-partida, quando não como objetivo a ser atingido.
+No Brasil da segunda metade do século XIX, a pintura paisagística e a
+literatura crítica convergem na representação de cenas urbanas como
+instrumento de articulação de identidades. A temática da cidade
+na literatura e na pintura assume uma posição à margem do escopo
+restrito e restritivo da encomenda oficial para representar, no âmbito
+da encomenda privada ou da produção artística autônoma, a imagem dos
+olhares cambiantes lançados pelas elites intelectuais e econômicas
+sobre a cidade. Tais olhares, ainda que pautados por uma ideologia do
+progresso material burguês, não coincidem integralmente com os já
+bastante estudados discursos técnicos sobre "melhoramentos urbanos"
+mas abarcam também, senão prioritariamente, a formulação ideológica do
+caráter nacional em termos análogos aos da historiografia então
+promovida pelo Instituo Histórico e Geográfico Brasileiro (IHGB).
 
-Apesar de suas divergências estéticas, modernistas e tradicionalistas
-do final do século XIX até o início do XX tinham ao menos uma
-posição em comum:
-ambos grupos alegavam que faltava à arte e à arquitetura brasileiras
-da segunda metade do século XIX um caráter devidamente nacional.
+Alguns aspectos desta ideologia da nação têm sido tratados de modo
+recorrente na produção científica atual: mormente, o papel fulcral da
+Academia Imperial de Belas-Artes na constituição de um cânone apto a
+gerar uma "escola brasileira" em termos admissíveis na arte erudita
+europeia [@pereira:2012revisao] e o trânsito, frequentemente
+contraditório, do ideal de nação entre esferas políticas e disciplinas
+artísticas [@abreu:2001museu]. Os papéis por vezes intercambiáveis
+desempenhados por modernistas e tradicionalistas nas campanhas pela
+caracterização da "arte nacional" constituem um problema recorrente
+nos estudos sobre crítica de arte, mas também nas áreas de história da
+literatura e da arquitetura [@lins:1996gonzaga25;
+@thiengo:2010questao; @wisnik:2007plastica].
+
+Todas essas temáticas assentam-se, outrossim, na historicização da
+crítica artística e literária que se opera imediatamente após a
+independência do Brasil, com o *estado da arte* apresentado por
+Gonçalves de Magalhães, Francisco Torres Homem de Mello e Araújo
+Porto-Alegre em 1834 [@magalhaes:1834resume]. Fazendo frente ao
+"projeto histórico-cultural europeu enquanto paradigma universal" que
+"condena a cultura latinoamericana a ser lida como repetição [...]
+imperfeita" [@dallemand:1996urban15, p. 360--361], a crítica de arte e
+de arquitetura no Império e na primeira República reivindica uma
+consciência da trajetória histórica brasileira como chancela da sua
+independência cultural.
+
+A busca pelo modo "Como se deve escrever a história do Brazil",
+lançada pelo IHGB e respondida por von Martius, erige a fé no
+progressivo dealbar da identidade nacional simultaneamente em sentido
+da história e em tema da historiografia [@vonmartius:1845se6, p. 402].
+O discurso artístico brasileiro no final do Império e na primeira
+República apresenta, em contraste, uma marcada insegurança quanto à
+consecução de um caráter artístico verdadeiramente nacional e ao seu
+valor estético. Prenunciando a "retórica da perda" que formará a
+justificativa fundadora da preservação patrimonial no Estado Novo e
+além [@goncalves:1996retorica, p. 90], autores e artistas de finais do
+século XIX e início do XX, indistintamente tradicionalistas e
+modernistas, alegavam que faltava à arte e à arquitetura brasileiras
+do século XIX um caráter devidamente nacional.
 
 * * * * * * * * *
 
@@ -102,7 +141,7 @@ principalmente, construir um discurso sobre
 o caráter moral e histórico da nação.
 Esse discurso, pautado, segundo Fedatto,
 pelo princípio de uma "singularidade brasileira"
-[@fedatto:2013saber, p.\ 102], oscila, argumentamos,
+[@fedatto:2013saber, p. 102], oscila, argumentamos,
 entre a afirmação de uma identidade nacional fixa
 e o conformismo diante da natureza sobrepujando a civilização.
 
