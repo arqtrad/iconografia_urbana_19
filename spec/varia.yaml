@@ -8,9 +8,10 @@ from                   : 'markdown'
 to                     : 'docx'
 table-of-contents      : False
 number-sections        : False
-reference-doc          : 'spec/varia.docx'
-csl                    :
+csl                    : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
 bibliography           : 'biblio.bib'
+suppress-bibliography  : False
+bibliography-title     : 'Referências bibliográficas'
 input-files:
 - metadata.yaml
 - intro.md
