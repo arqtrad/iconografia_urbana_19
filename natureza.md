@@ -1,7 +1,7 @@
 O Sublime, a Natureza e a Cidade
 ================================
 
-Jean-Baptiste Debret (1768--1848), pintor de história oficial
+Debret, pintor de história oficial
 da corte portuguesa no Brasil, tem sua produção atualmente
 mais reconhecida à margem das encomendas oficiais,
 por meio da publicação de seu
@@ -16,7 +16,7 @@ inteiramente sobrepujada pela escala da paisagem natural
 (Figura @fig:taubate).
 
 ![Jean-Baptiste Debret (1768--1848). Vista de Taubaté, 1827
- ](figures/jb_debret_taubate.jpeg){#fig:taubate}
+ ](fig/jb_debret_taubate.jpeg){#fig:taubate}
 
 O tema da natureza dominando a urbanização foi,
 sabidamente, favorecido pelos viajantes estrangeiros
@@ -53,7 +53,7 @@ geológica e florística.
 
 ![Agostinho José da Motta (1824--1878). 
   Paisagem do Rio de Janeiro tomada do alto da Serra de Petrópolis,
-  1857](figures/Agostinho_Jose_da_Mota_-_Paisagem_do_Rio_de_Janeiro.jpg){#fig:motta}
+  1857](fig/Agostinho_Jose_da_Mota_-_Paisagem_do_Rio_de_Janeiro.jpg){#fig:motta}
 
 Com o crescente mercado de estampas e, mais tarde, de fotografias,
 a partir do período regencial, a tipologia da vista urbana
@@ -114,7 +114,7 @@ mais convencional, bem como, reciprocamente, a qualquer aproximação
 com a incipiente tradição da vista urbana romântica. 
 
 ![Victor Meirelles (1832--1903). Panorama do Desterro, 1847
- ](figures/Victor_Meirelles_-_Vista_do_Desterro_-_c._1847.jpg){#fig:desterro}
+ ](fig/Victor_Meirelles_-_Vista_do_Desterro_-_c._1847.jpg){#fig:desterro}
 
 
 A síntese do final do século
@@ -164,7 +164,7 @@ do poder político e relegando as personagens do povo
 a detalhes de ambientação. 
 
 ![Pedro Weingärtner (1853--1929). Vida nova, 1893
- ](figures/Pedro_Weingaertner_-_Vida_nova_-_1893.jpeg){#fig:weingaertner}
+ ](fig/Pedro_Weingaertner_-_Vida_nova_-_1893.jpeg){#fig:weingaertner}
 
 Calixto, luso-brasileiro e paulista, destacou-se pelas vistas
 do litoral de seu estado, seja no gênero de paisagem ou no da
@@ -191,7 +191,7 @@ da representação de cenas históricas, assim como reminiscências
 do tema romântico da natureza pujante.
 
 ![Benedito Calixto (1853--1927). Proclamação da República, 1893
- ](figures/Proclamacao_da_Republica_by_Benedito_Calixto_1893.jpeg){#fig:calixto}
+ ](fig/Proclamacao_da_Republica_by_Benedito_Calixto_1893.jpeg){#fig:calixto}
 
 A síntese operada nessa combinação de abordagens marca,
 entretanto, o canto do cisne da vista urbana enquanto

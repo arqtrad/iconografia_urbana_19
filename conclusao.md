@@ -74,3 +74,18 @@ was then placed in the shadow of his father, the Spanish architect who
 designed some of Rio's finest eclectic buildings.
 
 * * *
+
+A cidade é apresentada sob o prisma de sua unidade num panorama distante
+ou na representatividade de um monumento, ao passo que
+os conflitos sociais e a identidade dos lugares
+--- capturados pelos viajantes estrangeiros do início do século XIX ---
+desaparecem temporariamente do registro visual.
+
+Trata-se, ao mesmo tempo, de uma visão que aplasta as diferenças
+políticas, sociais e regionais. Será nos primórdios da crítica de arte
+no Brasil, e com a influência do impressionismo e do realismo na
+pintura, que se perde essa dupla leitura do projeto civilizador e de
+sua limitação diante do sublime. Nesse momento, ao final do século
+XIX, as perspectivas se restringem, a fotografia documenta os
+estertores de um regime político, da instituição escravista e de
+bairros inteiros apagados pela marcha do progresso republicano.

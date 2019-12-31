@@ -34,6 +34,16 @@ imperfeita" [@dallemand:1996urban15, p. 360--361], a crítica de arte e
 de arquitetura no Império e na primeira República reivindica uma
 consciência da trajetória histórica brasileira como chancela da sua
 independência cultural.
+O discurso retrospectivo sobre a cidade e a arquitetura brasileiras
+comparece de modo mais explícito, em meados do século XIX,
+por meio do gênero literário e documental da biografia.
+Aquela do Mestre Valentim, por Manuel de Araújo Porto-Alegre (1856), e
+a do Aleijadinho, por Rodrigo José Ferreira Bretas (1858), são marcos
+célebres da historiografia da arte brasileira.
+Ao contrário dos estudos etnográficos como o da Comissão científica de
+exploração liderada por Gonçalves Dias [@kury:2001comissao], todavia,
+a produção pictórica do século XIX recebe atenção mais jornalística
+que historiográfica.
 
 A busca pelo modo "Como se deve escrever a história do Brazil",
 lançada pelo IHGB e respondida por von Martius, tem a fé no
@@ -153,4 +163,18 @@ iconográficas e literárias, segundo Pesavento [-@pesavento:2001busca,
 p. 665], constituem os "vestígios esparsos [...] dando a ver" não
 apenas o fato urbano, mas sobretudo os filtros ideológicos pelos quais
 este é traduzido por suas testemunhas oculares.
+
+Por sua vez, a reconstrução discursiva da cidade brasileira na
+primeira República oculta, em parte, o *locus* ideológico e estético
+da vista urbana no entendimento do que seja a natureza da cidade
+brasileira. De um lado, no Brasil imperial afirma-se um papel político
+para a vista urbana na elaboração de uma ordem administrativa
+centralista e hierarquizada --- evidenciada pela predominância de
+panoramas de cidades administrativas e, dentro dessas, de palácios
+governamentais ou igrejas associadas ao poder imperial. Do outro,
+resgata-se a categoria estética do sublime [@naxara:2004cientificismo]
+como contraponto ao totalitarismo da mensagem política. Nesse
+registro, a cidade brasileira é apropriada enquanto intromissão de um
+ideal civilizador na onipotência da Natureza, percebida, em última
+análise, como o elemento definidor do Brasil.
 
