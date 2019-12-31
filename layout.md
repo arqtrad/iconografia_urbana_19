@@ -1,10 +1,10 @@
 metadata.yaml
 intro.md
 vistas.md
+natureza.md
 carater.md
 queda.md
 reconstruindo.md
-natureza.md
 modernidade.md
 profissional.md
 conclusao.md
