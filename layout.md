@@ -1,7 +1,6 @@
 metadata.yaml
 intro.md
 vistas.md
-natureza.md
 carater.md
 queda.md
 reconstruindo.md
