@@ -1,17 +1,18 @@
 filters:
-- pandoc-internalrefs
+# - pandoc-internalrefs
 - pandoc-citeproc
 fail-if-warnings       : True
 file-scope             : True
 default-image-extension: '.jpg'
 from                   : 'markdown'
 to                     : 'docx'
-table-of-contents      : False
-number-sections        : False
-csl                    : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
-bibliography           : 'biblio.bib'
-suppress-bibliography  : False
-bibliography-title     : 'Referências bibliográficas'
+metadata:
+  table-of-contents    : False
+  number-sections      : False
+  suppress-bibliography: False
+  bibliography         : 'biblio.bib'
+  bibliography-title   : 'Referências bibliográficas'
+  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
 input-files:
 - metadata.yaml
 - intro.md
@@ -22,7 +23,6 @@ input-files:
 - modernidade.md
 - profissional.md
 - conclusao.md
-- biblio.md
 resource-path:
 - .
 - fig
