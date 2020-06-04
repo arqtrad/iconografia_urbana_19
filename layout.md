@@ -7,4 +7,3 @@ reconstruindo.md
 modernidade.md
 profissional.md
 conclusao.md
-biblio.md
