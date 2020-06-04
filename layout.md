@@ -1,4 +1,3 @@
-metadata.yaml
 intro.md
 vistas.md
 carater.md
