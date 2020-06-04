@@ -1,5 +1,5 @@
 filters:
-# - pandoc-internalrefs
+- pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings       : True
 file-scope             : True
@@ -10,9 +10,9 @@ metadata:
   table-of-contents    : False
   number-sections      : False
   suppress-bibliography: False
-  bibliography         : 'biblio.bib'
+  bibliography         : 'bibliography/biblio.bib'
   bibliography-title   : 'Referências bibliográficas'
-  csl                  : 'spec/styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
+  csl                  : 'styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
 input-files:
 - metadata.yaml
 - intro.md
@@ -25,4 +25,4 @@ input-files:
 - conclusao.md
 resource-path:
 - .
-- fig
+- figures

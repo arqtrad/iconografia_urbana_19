@@ -7,7 +7,7 @@ filters:
 toc          : false
 resource-path:
 - .
-- fig
+- figures
 default-image-extension: ".jpg"
 fail-if-warnings       : true
 variables:

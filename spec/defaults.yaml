@@ -1,9 +1,9 @@
 fail-if-warnings       : True
 filters:
-- pandoc-internalrefs
+- pandoc-xnos
 - pandoc-citeproc
 default-image-extension: '.jpg'
 file-scope             : True
 resource-path:
 - .
-- fig
+- figures
