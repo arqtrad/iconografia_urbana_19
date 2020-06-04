@@ -133,7 +133,7 @@ Janeiro destinadas a adornar o Passeio Público do Mestre Valentim,
 completada em 1790 (Figura @fig:joaquim).
 
 ![Leandro Joaquim (1738--1798). Igreja e Praia da Glória, 1790
- ](fig/LeandroJoaquim-Gloria.jpg){#fig:joaquim}
+ ](figures/LeandroJoaquim-Gloria.jpg){#fig:joaquim}
 
 A série combina cenas oficiais de acontecimentos militares,
 ambientadas no centro da cidade ou em seu porto, com representações, à
@@ -183,7 +183,7 @@ século XVIII, substituída pelas referências mais diretas à arte
 europeia recente.
 
 ![Nicolas-Antoine Taunay (1755--1830). Glória, 1824
- ](fig/mar_rio_taunay_gloria_1824.jpeg){#fig:nicolas}
+ ](figures/mar_rio_taunay_gloria_1824.jpeg){#fig:nicolas}
 
 
 Sublime, Natureza e Cidade
@@ -214,7 +214,7 @@ dos viajantes europeus pela alteridade, para ser adotado também pelos
 artistas brasileiros. 
 
 ![Jean-Baptiste Debret (1768--1848). Vista de Taubaté, 1827
- ](fig/jb_debret_taubate.jpeg){#fig:taubate}
+ ](figures/jb_debret_taubate.jpeg){#fig:taubate}
 
 Nas exposições gerais de belas artes, realizadas com periodicidade
 irregular a partir de 1840, a pintura de paisagem só perde, em
@@ -231,7 +231,7 @@ civilização em prol da pujança geológica e florística.
 
 ![Agostinho José da Motta (1824--1878). 
   Paisagem do Rio de Janeiro tomada do alto da Serra de Petrópolis,
-  1857](fig/Agostinho_Jose_da_Mota_-_Paisagem_do_Rio_de_Janeiro.jpg){#fig:motta}
+  1857](figures/Agostinho_Jose_da_Mota_-_Paisagem_do_Rio_de_Janeiro.jpg){#fig:motta}
 
 Com o crescente mercado de estampas a partir do período regencial e,
 mais tarde, de fotografias, a tipologia da vista urbana
@@ -285,6 +285,6 @@ bem como, reciprocamente, a qualquer aproximação com a incipiente
 tradição da vista urbana romântica. 
 
 ![Victor Meirelles (1832--1903). Panorama do Desterro, 1847
- ](fig/Victor_Meirelles_-_Vista_do_Desterro_-_c._1847.jpg){#fig:desterro}
+ ](figures/Victor_Meirelles_-_Vista_do_Desterro_-_c._1847.jpg){#fig:desterro}
 
 
