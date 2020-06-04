@@ -250,7 +250,7 @@ do poder político e relegando as personagens do povo
 a detalhes de ambientação. 
 
 ![Pedro Weingärtner (1853--1929). Vida nova, 1893
- ](fig/Pedro_Weingaertner_-_Vida_nova_-_1893.jpeg){#fig:weingaertner}
+ ](figures/Pedro_Weingaertner_-_Vida_nova_-_1893.jpeg){#fig:weingaertner}
 
 Calixto, luso-brasileiro e paulista, destacou-se pelas vistas
 do litoral de seu estado, seja no gênero de paisagem ou no da
@@ -277,7 +277,7 @@ da representação de cenas históricas, assim como reminiscências
 do tema romântico da natureza pujante.
 
 ![Benedito Calixto (1853--1927). Proclamação da República, 1893
- ](fig/Proclamacao_da_Republica_by_Benedito_Calixto_1893.jpeg){#fig:calixto}
+ ](figures/Proclamacao_da_Republica_by_Benedito_Calixto_1893.jpeg){#fig:calixto}
 
 A síntese operada nessa combinação de abordagens marca,
 entretanto, o canto do cisne da vista urbana enquanto
