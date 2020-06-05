@@ -1,1 +1,1 @@
-Iconografia urbana e profissionalização da arquitetura e da crítica no Brasil
+O caráter nacional como lacuna na iconografia urbana brasileira do século XIX
