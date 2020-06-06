@@ -9,7 +9,6 @@ resource-path:
 - .
 - figures
 input-files:
-- metadata.yaml
 - intro.tex
 - vistas.tex
 - carater.tex
@@ -18,3 +17,4 @@ input-files:
 - modernidade.tex
 - profissional.tex
 - conclusao.tex
+metadata-file: metadata.yaml

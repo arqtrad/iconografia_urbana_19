@@ -38,8 +38,14 @@ jobs:
         path: styles
     - name: Test PDF export
       run: |
+        cd ${{ github.workspace }}
         docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
           pandoc/latex:2.9.2.1 -d spec/latex2pdf.yaml
+    - name: Upload PDF for manual inspection
+      uses: actions/upload-artifact@v2
+      with:
+        name: build-pdf
+        path: build.pdf
   authorea:
     env:
       commit_message: ${{ github.event.head_commit.message }}
