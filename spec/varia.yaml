@@ -2,7 +2,7 @@ filters:
 - pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings       : True
-file-scope             : True
+file-scope             : False
 default-image-extension: '.jpg'
 from                   : 'markdown'
 to                     : 'docx'
@@ -13,8 +13,8 @@ metadata:
   bibliography         : 'bibliography/biblio.bib'
   bibliography-title   : 'Referências bibliográficas'
   csl                  : 'styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
+metadata-file: metadata.yaml
 input-files:
-- metadata.yaml
 - intro.md
 - vistas.md
 - carater.md

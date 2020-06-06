@@ -1,9 +1,11 @@
 ---
 title: >-
   O caráter nacional como lacuna na iconografia urbana brasileira do século XIX
-author     : 'Pedro Paulo Palazzo'
-affiliation: 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
-email      : 'palazzo@unb.br'
-date       : '2019'
-lang       : 'pt-BR'
+author      : 'Pedro Paulo Palazzo'
+affiliation : 'Faculdade de Arquitetura e Urbanismo da Universidade de Brasília'
+email       : 'palazzo@unb.br'
+date        : '2019'
+lang        : 'pt-BR'
+bibliography: 'bibliography/biblio.bib'
+csl         : 'styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
 ---

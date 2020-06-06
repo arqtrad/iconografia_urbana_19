@@ -5,6 +5,7 @@ fail-if-warnings: true
 standalone      : true
 file-scope      : false
 bibliography    : 'bibliography/biblio.bib'
+csl             : 'styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
 resource-path:
 - .
 - figures
