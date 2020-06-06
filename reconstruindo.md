@@ -208,7 +208,7 @@ residencial dos mestres de obras, que permaneceram imunes ao:
 > explicando direito o *porquê* de cada elemento, nem as razões
 > profundas que condicionaram, em cada época, o aparecimento de
 > características comuns, ou seja, de um estilo [...]
-> [@costa:2007aa, p. 93]
+> [@costa:1937documentacao, p. 39]
 
 Como Lucio Costa não argumentava em torno da arquitetura erudita, ele
 pôde contornar o problema do "mau ensino", admitindo a sobrevivência
