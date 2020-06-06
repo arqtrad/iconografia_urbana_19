@@ -5,7 +5,7 @@ standalone      : false
 file-scope      : true
 bibliography    : 'bibliography/biblio.bib'
 cite-method     : biblatex
-filter:
+filters:
 - pandoc-xnos
 resource-path:
 - .
