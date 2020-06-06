@@ -1,0 +1,19 @@
+from            : latex
+to              : pdf
+fail-if-warnings: true
+standalone      : true
+file-scope      : true
+bibliography    : 'bibliography/biblio.bib'
+resource-path:
+- .
+- figures
+input-files:
+- metadata.yaml
+- intro.tex
+- vistas.tex
+- carater.tex
+- queda.tex
+- reconstruindo.tex
+- modernidade.tex
+- profissional.tex
+- conclusao.tex

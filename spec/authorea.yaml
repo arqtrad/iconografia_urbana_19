@@ -1,0 +1,10 @@
+from            : markdown
+to              : latex
+fail-if-warnings: true
+standalone      : false
+file-scope      : true
+bibliography    : 'bibliography/biblio.bib'
+cite-method     : biblatex
+resource-path:
+- .
+- figures
