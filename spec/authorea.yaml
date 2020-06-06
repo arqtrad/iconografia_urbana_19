@@ -5,6 +5,8 @@ standalone      : false
 file-scope      : true
 bibliography    : 'bibliography/biblio.bib'
 cite-method     : biblatex
+filter:
+- pandoc-xnos
 resource-path:
 - .
 - figures

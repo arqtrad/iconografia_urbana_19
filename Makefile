@@ -12,7 +12,7 @@ authorea : $(LATEX)
 
 %.tex : %.md authorea.yaml biblio.bib
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
-		pandoc/latex:2.9.2.1 -o $@ -d spec/authorea.yaml $<
+		palazzo/pandoc-xnos:edge -o $@ -d spec/authorea.yaml $<
 
 build : $(PAGES)
 
