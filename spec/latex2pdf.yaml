@@ -1,7 +1,7 @@
 from            : latex
 to              : pdf
 output-file     : build.pdf
-fail-if-warnings: true
+fail-if-warnings: false
 standalone      : true
 file-scope      : false
 bibliography    : 'bibliography/biblio.bib'
