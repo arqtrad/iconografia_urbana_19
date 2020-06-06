@@ -62,18 +62,18 @@ In the book that was the synthesis of his early thinking, *A Arte Brasileira* (B
 
 > One concludes, then, that this art is missing native features and originality, primordial qualities for the founding of a School. 
 
-> . . . . The defining feature of our art is cosmopolitanism, and a nation, to have a School, needs, foremost, a national art. [@gonzaga-duque:1995kq, p. 258--259]
+> . . . . The defining feature of our art is cosmopolitanism, and a nation, to have a School, needs, foremost, a national art. [@gonzagaduque:1995arte, p. 258--259]
 
 He was not particularly excited by earlier art forms, however.
 Even the monumental architecture of the colonial period (1530--1808), which so captivated later writers, was to him:
 
-> . . . . A flagrant evidence of bad taste and lack of intelligence .\ .\ .\ . [@gonzaga-duque:1995kq, p. 74]
+> . . . . A flagrant evidence of bad taste and lack of intelligence .\ .\ .\ . [@gonzagaduque:1995arte, p. 74]
 
-To their credit, Gonzaga Duque conceded, colonial painters such as Manoel da Cunha (1737--1809) had, at the very least, a sort of crafty authenticity about them [@gonzaga-duque:1995kq, p. 81]
+To their credit, Gonzaga Duque conceded, colonial painters such as Manoel da Cunha (1737--1809) had, at the very least, a sort of crafty authenticity about them [@gonzagaduque:1995arte, p. 81]
 For him, then, differently from the European romantics, national character was not to be extracted from the achievements of previous eras.
 It was something yet to be produced out of the maturing of late nineteenth-century artists.
 On this regard, even a promising young painter such as Amoedo---to whom Gonzaga Duque commissioned his portrait---was censured for the feebleness of his subjects.
-National character was thus not to be found in any specific style, but merely in the choice of proper subject matter, chiefly Indians [@gonzaga-duque:1995kq, p. 185]
+National character was thus not to be found in any specific style, but merely in the choice of proper subject matter, chiefly Indians [@gonzagaduque:1995arte, p. 185]
 
 Later on, though, in 1909, Gonzaga Duque would commend Amoedo for having outgrown Indianism, "vanquished by the assimilating force of a superior environment" [@gonzagaduque:1929contemporaneos, p. 13]:
 European culture, in the form of classical nudes and mythological scenes.
