@@ -3,7 +3,7 @@ to              : pdf
 output-file     : build.pdf
 fail-if-warnings: true
 standalone      : true
-file-scope      : true
+file-scope      : false
 bibliography    : 'bibliography/biblio.bib'
 resource-path:
 - .
