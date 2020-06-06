@@ -101,7 +101,7 @@ salões de arte já no início da República.
 Em 1909, no entanto, a sua posição havia se modificado:
 naquele ano, Gonzaga Duque elogiava Amoedo por ter superado a fixação
 indianista, "vencido pela força assimiladora dum meio superior."
-[@gonzaga-duque:1929ly, p. 13]:
+[@gonzagaduque:1929contemporaneos, p. 13]:
 qual fosse, a cultura pictórica europeia, na forma de nus clássicos e
 cenas da mitologia antiga.
 No último apanhado que fez da arte brasileira, o discurso de abertura
@@ -109,7 +109,7 @@ da Exposição Geral de Belas Artes de 1908, no Rio de Janeiro, Gonzaga
 Duque resumiu um retrato triunfal da arte nacional.
 Ele não julgava mais a arte colonial pelo seu valor estético, mas a
 considerava um "documento histórico" da maior importância
-[@gonzaga-duque:1929ly, p. 247].
+[@gonzagaduque:1929contemporaneos, p. 247].
 Ao mesmo tempo, a influência francesa que ele lamentara na sua
 juventude não era mais considerada algo que dificultasse a expressão
 do caráter nacional.
@@ -129,7 +129,7 @@ caráter nacional:
 > [...] a arte caracteristica, verdadeiramente brasileira, surgirá
 > desta natureza admiravel, desta luz de ouro, dessa alma popular
 > feita com a nostalgia do indio, a infallibilidade animal do africano
-> e a alma lyrica do portuguez marujo e exul. [@gonzaga-duque:1929ly,
+> e a alma lyrica do portuguez marujo e exul. [@gonzagaduque:1929contemporaneos,
 > p. 255]
 
 * * * * * * * * *
@@ -139,7 +139,7 @@ of the Portuguese Crown from Lisbon to Rio, thus marking the onset of
 a cycle of direct European influence on all aspects of Brazilian
 culture. In Gonzaga Duque's speech, Colonial art was no longer judged
 by its aesthetic value---either good or bad---, but seen as a
-"historical document" of utmost importance [@gonzaga-duque:1929ly, p.
+"historical document" of utmost importance [@gonzagaduque:1929contemporaneos, p.
 247]. Conversely, French influence was no longer seen as harming the
 expression of national character. 
 On the contrary, it provided the necessary professional expertise and

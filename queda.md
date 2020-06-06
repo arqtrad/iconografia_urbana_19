@@ -8,7 +8,7 @@ conflitantes:
 cosmopolitismo e expressão de um caráter nacional, exaltação da
 modernidade e da industrialização juntamente com um gosto pela
 exuberância da natureza tropical, unidade nacional e exibição das
-particularidades estaduais [@pereira:2011zr].
+particularidades estaduais [@pereira:2011exposicao].
 Nesse contexto, um caráter nacional na arte era mais um desejo
 otimista do que algo já realizado em algum momento do passado ou no
 presente.
@@ -36,14 +36,14 @@ sociedade agrária em São Paulo.
 O último capítulo do livro, em particular, criticava o fascínio dos
 escritores com personagens autenticamente nacionais, especialmente o
 caipira que se sobrepusera ao índio como o brasileiro por excelência
-[@lobato:1944yq, p. 208--209].
+[@monteirolobato:1944urupes, p. 208--209].
 Assim como seus contemporâneos paulistas, Monteiro Lobato era um
 entusiasta do progresso material e da industrialização.
 Reciprocamente, sua prosa, ainda que inspirada no naturalismo,
 apresentava uma justaposição sincopada bastante moderna para a época.
 Também distanciava-se do naturalismo por recusar a idealização do
 caipira enquanto representante autêntico do caráter nacional
-[@silva:2013fk, p. 303].
+[@silva:2013modernidade, p. 303].
 
 Sua crítica à inércia social e material das pequenas cidades
 interioranas em *Cidades Mortas* (1919) é mais complexa.
@@ -51,24 +51,24 @@ A autossuficiência pretensiosa da burguesia de Oblivion, por exemplo,
 aludia a uma espécia de decrepitude intemporal, mais do que simples
 subdesenvolvimento.
 Os cidadãos de Oblivion por pouco não morriam de tédio
-[@lobato:1919qf, p. 25], mas não de privação material.
+[@monteirolobato:1919cidades, p. 25], mas não de privação material.
 As cidades mortas continham:
 
 > Impressões de uma juventude morta que vegetava na estagnação das
 > cidades mortas. Também há alguma coisa moderna. Mas tanto o moderno
-> quanto o antigo valem o mesmo --- nada. [@lobato:1919qf, epígrafe]
+> quanto o antigo valem o mesmo --- nada. [@monteirolobato:1919cidades, epígrafe]
 
 Esse senso de desesperança, de algo que teria sido mas não foi,
 estaria muito claro na mente dos contemporâneos de Monteiro Lobato,
 claramente referindo-se à decadência material e espiritual de centros
-urbanos antes pujantes, nas regiões cafeeiras [@silva:2013fk, p. 299]:
+urbanos antes pujantes, nas regiões cafeeiras [@silva:2013modernidade, p. 299]:
 
 > Ali, tudo era, nada é. Nenhum verbo é conjugado no presente. Tudo é
 > pretérito.
 >
 > Um grupo de cidades moribundas arrastam uma vida decrépita, passada
 > chorando na miséria de hoje a grandeza nostálgica de antanho.
-> [@lobato:1919qf, p. 8]
+> [@monteirolobato:1919cidades, p. 8]
 
 A antiga prosperidade dessas cidades nunca era mencionada diretamente
 no livro, mas estaria vívida nas mentes dos seus leitores.
@@ -80,13 +80,13 @@ remetendo aos escritos de juventude de Gonzaga Duque:
 a noção de que algum processo de germinação de um caráter nacional
 estivera gestando, rude porém autêntico, e de que esse processo entrou
 em decadência antes de dar frutos.
-A construção de um "tempo fora do tempo" mítico [@eliade:1966pt], de
+A construção de um "tempo fora do tempo" mítico [@eliade:1966aspects], de
 eterna decadência desde um cume que nunca foi atingido, deu a tônica
 para a construção de uma imagem altamente flexível de "brasilidade"
 perdida.
 Era crucial, para essa retórica de uma perda mítica de algo que nunca
 existiu de fato, vislumbrar um hiato cronológico implícito que
-mantivesse algum senso de tempo histórico [@silva:2012cr, p. 293].
+mantivesse algum senso de tempo histórico [@silva:2012cidades, p. 293].
 Esse hiato também estaria claro para o leitor contemporâneo,
 dispensando menção explícita no texto:
 correspondia ao declínio do cultivo do café no Vale do Paraíba,
@@ -110,6 +110,6 @@ in the United States, where the Mission Style provided a template for
 Hispanic revivals.
 It then spread southward, reaching Latin America around the time of
 the centennial of independence in many of its countries
-[@amaral:1994kx, p. 12]
+[@amaral:1994invencion, p. 12]
 
 * * *

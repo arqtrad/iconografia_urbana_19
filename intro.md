@@ -82,7 +82,7 @@ A busca pelo modo "Como se deve escrever a história do Brazil",
 lançada pelo IHGB e respondida por von Martius, tem a fé no
 progressivo dealbar da identidade nacional como sentido explicativo da
 história e, simultaneamente, como tema a ser tratado na historiografia
-[@vonmartius:1845se6, p. 402]. O discurso artístico brasileiro no
+[@martius:1845se6, p. 402]. O discurso artístico brasileiro no
 final do Império e na primeira República apresenta, em contraste, uma
 marcada insegurança quanto à consecução de um caráter artístico
 verdadeiramente nacional e ao seu valor estético. Prenunciando a
@@ -124,8 +124,8 @@ acerca da arte do século XIX, identificando esse século como uma
 *travessia do deserto* no processo formativo do caráter artístico
 nacional. Neste ponto, todavia, emergem discordâncias quanto à
 periodização. Gonzaga Duque em 1888 [-@gonzagaduque:1995arte] recorta
-um "breve século XIX" que vai da introdução do academicismo sob a
-Missão artística francesa (1816) à eclosão do naturalismo literário e
+um "breve século XIX" que vai da introdução do academicismo sob a Missão
+artística francesa (1816) à eclosão do naturalismo literário e
 artístico, associado à obra de Aluísio Azevedo e Belmiro de Almeida,
 seus contemporâneos. Adolfo Morales de los Ríos Filho
 [-@morales:1941grandjean] corrobora esta cronologia por motivos mais

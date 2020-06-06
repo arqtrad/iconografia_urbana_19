@@ -14,7 +14,7 @@ what would give Brazilian architecture a distinctive character right
 away. Severo argued that the forms and plans implanted in the Americas
 by the Portuguese colonists, chiefly derived from both Roman and
 Moorish sources, were to be the basis for the establishment of a
-national-traditional art in Brazil [@azevedo:1994aa, p. 249] He
+national-traditional art in Brazil [@azevedo:1994ideas, p. 249] He
 followed up this first conference with further texts, putting forward
 his ideas about a new traditional Brazilian architecture. In a 1917
 article in one of the country's most important magazines of the time,
@@ -25,7 +25,7 @@ source of a local authenticity:
 > imported, and this phenomenon, noted by the most illustrious
 > historians of Portuguese art, shows up in colonial Brazil as well,
 > where the Baroque, said to be Jesuit, took on expressions of modest
-> simplicity, but with a noteworthy local mark [@severo:1917aa, p.
+> simplicity, but with a noteworthy local mark [@severo:1917arte, p.
 > 402]
 
 He made a point to show how churches and houses in the colonial period
@@ -43,7 +43,7 @@ began to erode. Severo thus proceeded to decry the arrival of fresh
 immigrants at that time, "deft stuccoists come from Italy and
 Portugal" who brought eclecticism, a façadist habit of making up
 "incomprehensible styles that shocked mostly by their disconnection
-with the local setting and its destiny" [@severo:1917aa, p. 415] The
+with the local setting and its destiny" [@severo:1917arte, p. 415] The
 solution, he asserted, was to reclaim an authentic national tradition,
 consisting in the adaptation of old Portuguese styles, as adapted and
 transformed by the influence of local climate and geography.
@@ -72,7 +72,7 @@ adaptation to the site:
 > constitute at some point in time the local environment, the moral
 > character of a people, the hallmark of its civilization;
 > it is the product of a rhythmic evolution of successive cycles of
-> art and style .\ .\ .\ . [@severo:1917aa, p. 423--424]
+> art and style .\ .\ .\ . [@severo:1917arte, p. 423--424]
 
 Severo wrote, spoke, and designed in São Paulo, a city that woke up
 from its own gloomy slumber of economic inertia as late as the 1860s,
@@ -80,7 +80,7 @@ when the construction of the railway turned the city into a major
 economic hub. From a point of view taken in São Paulo, little of any
 architectural significance had been built in the city between the
 reconstruction of the emblematic Jesuit College in 1700, and the
-opening of the railways in 1867--1871 [@lemos:1987aa, p. 72]
+opening of the railways in 1867--1871 [@lemos:1987ecletismo, p. 72]
 Neoclassicism in São Paulo had been an essentially rural phenomenon in
 those formerly affluent coffee-growing regions, mitigated by the
 practical conservatism of local builders. As Monteiro Lobato showed in
@@ -101,7 +101,7 @@ thus, probably not surprising. In the capital, this traditionalist
 movement was advocated, chiefly among all its proponents, by José
 Mariano Filho (1881--1946), a hygienist physician and amateur
 architect. He was, incidentally, responsible for coining the word
-"Neocolonial" to designate that movement [@kessel:2008aa, p. 132]
+"Neocolonial" to designate that movement [@kessel:2008arquitetura, p. 132]
 Mariano was also instrumental in rousing public support for monumental
 buildings to be designed in the neocolonial style, in addition to
 having sponsored, with his personal wealth, a number of architectural
@@ -132,7 +132,7 @@ autores nacionalistas da capital federal se posicionavam. O mais
 profícuo representante de um discurso sobre o caráter nacional em
 arquitetura no Rio era o médico sanitarista e arquiteto amador José
 Mariano Filho (1881--1946), irmão do poeta Olegário Mariano.
-Criador do termo "neocolonial" [@kessel:2008aa, p. 132], Mariano foi o
+Criador do termo "neocolonial" [@kessel:2008arquitetura, p. 132], Mariano foi o
 grande divulgador do movimento homônimo, tendo patrocinado, com sua
 fortuna pessoal, concursos e publicações.
 
@@ -164,14 +164,14 @@ do século XIX:
 >
 > A ausência de elementos clássicos, de par com a carência de mão de
 > obra adequada leva o povo a improvisar novas praxes e processos
-> desconhecidos em Portugal. [@marianno:1943aa, p. 9--10]
+> desconhecidos em Portugal. [@mariannofilho:1943margem, p. 9--10]
 
 A noção de tradição nacional na obra de Mariano, portanto, girava em
 torno da questão racial. Ele lamentava os imigrantes portugueses e os
 luso-brasileiros que, "ao invés de proceder como os italianos,
 ingleses, ou alemães, que preferem os estilos da própria
 nacionalidade, [...] procuram insistentemente disfarçá-lo, ou
-mascará-lo" [@marianno:1943aa, p. 32]. Por outro lado, a expressão do
+mascará-lo" [@mariannofilho:1943margem, p. 32]. Por outro lado, a expressão do
 caráter nacional era, para ele, independente dos detalhes decorativos
 ou mesmo dos materiais históricos, num discurso surpreendentemente
 alinhado com os ideais modernistas da mesma época. Em texto de 1931,
@@ -187,7 +187,7 @@ Mariano insistia que:
 > os estilos arquitetônicos. O que eu busco, são as qualidades
 > orgânicas, as virtudes sadias, os fundamentos estruturais, dos quais
 > resultam a perfeita concordância do sentimento arquitetônico com a
-> alma da nação. [@marianno:1943aa, p. 64]
+> alma da nação. [@mariannofilho:1943margem, p. 64]
 
 Esse ideal de progresso material vinculado a um conservadorismo social
 se refletiu nos escritos de um discípulo de Mariano, o arquiteto Lucio
@@ -196,7 +196,7 @@ neocolonial, Costa afirmara que as obras monumentais e individualistas
 do Aleijadinho não estavam imbuídas de um verdadeiro caráter nacional.
 Seria, ao contrário, na arquitetura simples dos mestres de obras
 anônimos que residia a homogeneidade técnica, funcional e estética do
-caráter brasileiro [@puppi:1998aa, p. 22]. Após a sua "conversão" ao
+caráter brasileiro [@puppi:1998historia, p. 22]. Após a sua "conversão" ao
 modernismo, Costa escreveu outro artigo, em 1937, descrevendo sua
 ideia de um desenvolvimento histórico da arquitetura brasileira.
 Ainda fiel às suas raízes, ele tratava exclusivamente da arquitetura

@@ -20,7 +20,7 @@ argument was similar:
 > of a fledgling society, .\ .\ .\ . and contributing to the
 > foundation of an art school, where it would have been difficult to
 > create it using existing [local] resources.
-> [@morales:1941aa, p. 157]
+> [@morales:1941grandjean, p. 157]
 
 Despite being part of the architectural establishment, as director of
 the most important fine arts school in the nation, Morales de los Ríos
@@ -65,7 +65,7 @@ profession. Severo, a republican activist who at first moved to Brazil
 to avoid political persecution, expected architecture and architects
 to play a role in the forging of a modern---meaning
 nationalist---state, conscious and proud of its ethnic origins
-[@mello:2007aa, p. 29] He sought to balance his archaeological
+[@mello:2007ricardo, p. 29] He sought to balance his archaeological
 interests, which led him to favor a structuralist cohesion of sorts
 between a centuries-old culture and its present developments, and his
 practice as an architect, where he ultimately gave in to the public
@@ -89,7 +89,7 @@ major public works eroded during that decade, his criticism of the
 Modern movement increasingly resorted to the sort of racial and
 political slander expected to appeal to the heads of the fascist
 government: "architectural Judaism" and "communist architecture" were
-expressions used in his later writings, [@marianno:1943aa, p. 41] as
+expressions used in his later writings, [@mariannofilho:1943margem, p. 41] as
 well as attacks on artistic "freemasonry."
 
 Both because of his early years in the neocolonial movement, and in
@@ -113,7 +113,7 @@ Preto, although influence from poets Mário de Andrade and Carlos
 Drummond de Andrade in the SPHAN is not to be excluded. Costa then
 moved away from the ethnological understanding of architectural
 coherence, to argue that an architectural work of art "shall not
-resent the proximity to other works of art" [quoted in @comas:2010aa]
+resent the proximity to other works of art" [quoted in @comas:2010passado]
 Throughout the remainder of his long writing career, he strove to
 reconcile both views as the discourses on the artistic originality of
 the Modern movement became hegemonic. The unchallenged ethos of

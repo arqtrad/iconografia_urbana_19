@@ -146,7 +146,7 @@ os panoramas coetâneos de Carlos Julião (1740--1811) e Luís dos Santos
 Vilhena (1744--1814), aproximando-se do conjunto pictórico produzido
 pelos artistas franceses a mando de D. João VI a partir de 1816.
 A chamada "Missão artística francesa", vista desde
-Gonzaga Duque [@gonzaga-duque:1995arte, p. 257] até Bosi
+Gonzaga Duque [@gonzagaduque:1995arte, p. 257] até Bosi
 [@bosi:2011cultura, p. 228] como um momento de ruptura com
 a tradição colonial para inserção de um componente importado,
 insere-se, pelo contrário, mais propriamente na continuidade

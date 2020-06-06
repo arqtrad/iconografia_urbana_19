@@ -58,7 +58,7 @@ Reciprocamente, a valorização desse período antes rejeitado, na
 historiografia das duas ou três últimas décadas, teve um infeliz
 corolário. Foi a historiografia da arte e da arquitetura no Brasil
 entre 1930 e 1990 que passou a ser rejeitada em bloco por
-historiadores revisionistas como Marcelo Puppi [@puppi:1998aa]. Ainda
+historiadores revisionistas como Marcelo Puppi [@puppi:1998historia]. Ainda
 assim, a contribuição de Gonzaga Duque para o estudo da arte
 brasileira ainda não recebeu a devida atenção acadêmica --- e o
 crítico de arte foi relegado ao mesmo papel subalterno de "documento
