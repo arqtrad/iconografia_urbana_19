@@ -39,7 +39,7 @@ jobs:
     - name: Test PDF export
       run: |
         docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
-          pandoc/latex:2.9.2.1 -o $@ -d spec/latex2pdf.yaml $<
+          pandoc/latex:2.9.2.1 -d spec/latex2pdf.yaml
   authorea:
     env:
       commit_message: ${{ github.event.head_commit.message }}

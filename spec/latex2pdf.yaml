@@ -1,5 +1,6 @@
 from            : latex
 to              : pdf
+output-file     : build.pdf
 fail-if-warnings: true
 standalone      : true
 file-scope      : true
