@@ -42,7 +42,6 @@ jobs:
         path: styles
     - name: Test PDF export
       run: |
-        ls spec
         docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
           pandoc/latex:2.9.2.1 -d spec/latex2pdf.yaml
     - name: Upload PDF for manual inspection
