@@ -10,14 +10,14 @@ pelo qual o imaginário pictórico e verbal elabora a sua própria
 realidade discursiva no Brasil oitocentista é bem conhecido
 [@pesavento:2002imaginario, 8]. No entanto, a interpretação histórica
 hegemônica tem apresentado o período imperial como época de *afirmação*,
-ainda que paulatina, da identidade nacional [@wehling:1983origens;
-@moreira:2003historia], ao passo que tem reservado à primeira República
-o papel de *problematizar* a questão nacional [@oliveira:1990questao;
-@bernd:1992literatura]. Essa interpretação deixa em segundo plano,
-porém, as raízes da problematização da identidade nacional ainda durante
-o Império. Tais raízes emergem na forma de uma teorização do caráter
-artístico brasileiro como uma lacuna a ser preenchida na construção da
-nacionalidade.
+ainda que paulatina, da identidade nacional [@wehling:1983origens338;
+@moreira:2003historia43], ao passo que tem reservado à primeira
+República o papel de *problematizar* a questão nacional
+[@oliveira:1990questao; @bernd:1992literatura]. Essa interpretação deixa
+em segundo plano, porém, as raízes da problematização da identidade
+nacional ainda durante o Império. Tais raízes emergem na forma de uma
+teorização do caráter artístico brasileiro como uma lacuna a ser
+preenchida na construção da nacionalidade.
 
 De fato, nas representações pictóricas assim como na crítica artística e
 arquitetônica de meados do século XIX a início do XX, a busca por um

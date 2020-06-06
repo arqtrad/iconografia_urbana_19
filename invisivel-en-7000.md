@@ -3,12 +3,11 @@ title:         Missing 'Brazilianness' of Nineteenth-Century Brazilian Art
                and Architecture
 author:      
 - name:        Pedro Paulo Palazzo
-- affiliation: University of Brasilia School of Architecture
-- email:       palazzo@unb.br
-author:
+  affiliation: University of Brasilia School of Architecture
+  email:       palazzo@unb.br
 - name:        Ana Amélia de Paula Moura
-- affiliation: Unievangélica
-- email:       anadepaulamoura@hotmail.com
+  affiliation: Unievangélica
+  email:       anadepaulamoura@hotmail.com
 date:          August 1, 2014
 ---
 

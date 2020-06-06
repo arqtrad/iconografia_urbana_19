@@ -1,0 +1,21 @@
+from            : latex
+to              : pdf
+output-file     : build.pdf
+fail-if-warnings: true
+standalone      : true
+file-scope      : false
+bibliography    : 'bibliography/biblio.bib'
+csl             : 'styles/associacao-brasileira-de-normas-tecnicas-ufmg-face-full.csl'
+resource-path:
+- .
+- figures
+input-files:
+- intro.tex
+- vistas.tex
+- carater.tex
+- queda.tex
+- reconstruindo.tex
+- modernidade.tex
+- profissional.tex
+- conclusao.tex
+metadata-file: metadata.yaml
