@@ -5,7 +5,6 @@ author:
 - name:        Pedro Paulo Palazzo
   affiliation: University of Brasilia School of Architecture
   email:       palazzo@unb.br
-author:
 - name:        Ana Amélia de Paula Moura
   affiliation: Unievangélica
   email:       anadepaulamoura@hotmail.com
