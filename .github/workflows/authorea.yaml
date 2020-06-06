@@ -1,8 +1,12 @@
 name: Authorea
 on:
-  push:
-    branches: [ master ]
   pull_request:
+  release:
+    type: 
+    - published
+    - edited
+    - prereleased
+    - released
 jobs:
   pandoc:
     runs-on: ubuntu-latest
@@ -38,7 +42,7 @@ jobs:
         path: styles
     - name: Test PDF export
       run: |
-        cd ${{ github.workspace }}
+        ls spec
         docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
           pandoc/latex:2.9.2.1 -d spec/latex2pdf.yaml
     - name: Upload PDF for manual inspection
@@ -51,7 +55,7 @@ jobs:
       commit_message: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
     needs: build
-    if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/iconografia_urbana_19'
+    if: github.event_name == 'release' && github.repository == 'dmcpatrimonio/iconografia_urbana_19'
     steps:
     - name: Checkout authorea branch
       uses: actions/checkout@v2
