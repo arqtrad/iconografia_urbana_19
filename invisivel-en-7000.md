@@ -253,7 +253,7 @@ True to his roots, he was speaking of residential architecture built by masons a
 > "technical-decorative" education, with no link whatsoever with life,
 > and not explaining them the *why* of each element, nor the deep
 > reasons that conditioned, in each period, the appearance of common
-> features, that is, of a style .\ .\ .\ . [@costa:1937documentacao, p.
+> features, that is, of a style .\ .\ .\ . [@costa:1937documentacao1, p.
 > 39]
 
 Because Costa did not focus his narrative on learned architecture, he was able to circumvent the problem of "bad teaching", and to argue for the occurrence of an authentic traditional architecture as far forward as 1910.
@@ -263,7 +263,7 @@ an original period of authentic national character, followed by another of prete
 the possibility of overcoming that decay by promoting a certain architectural movement;
 the defense of technical modernization and aesthetic advance while remaining anchored in that authentic national tradition.
 
-A few years later, though, Lucio Costa drifted from the broad sociological picture of national character to a romantic view favoring individual artistic intent [@costa:2007consideracoes, p. 113] and personal genius [@costa:2007cartadepoimento, p. 125], both embodied in his contemporary Oscar Niemeyer.
+A few years later, though, Lucio Costa drifted from the broad sociological picture of national character to a romantic view favoring individual artistic intent [@costa:2007consideracoes, p. 113] and personal genius [@ferraz:1948depoimento, 2], both embodied in his contemporary Oscar Niemeyer.
 In this, he was probably influenced by his acquaintance and driving force behind the creation of the National Heritage Service (`SPHAN`), modernist poet Mário de Andrade.
 
 Although Costa put forward the thesis of a chain of authentic architecture broken only by the neocolonial movement, his practice as official of the `SPHAN` effectively upheld Mariano's view that proper traditional Brazilian architecture did not reach far beyond 1800.
