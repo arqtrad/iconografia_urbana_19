@@ -40,9 +40,9 @@ jobs:
         repository: citation-style-language/styles.git
         path: styles
     - name: Test PDF export
-      run: |
-        docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
-          pandoc/latex:2.9.2.1 -d spec/latex2pdf.yaml
+      uses: docker://pandoc/latex:2.9.2.1
+      with:
+        args: "-d spec/latex2pdf.yaml"
     - name: Upload PDF for manual inspection
       uses: actions/upload-artifact@v2
       with:

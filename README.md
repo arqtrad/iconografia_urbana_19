@@ -1,6 +1,8 @@
 A cidade na arte e a arte na cidade: Vistas urbanas no Brasil do século XIX
 ===========================================================================
 
+![Authorea](https://github.com/dmcpatrimonio/iconografia_urbana_19/workflows/Authorea/badge.svg)
+
 Texto completo disponível nos anais do IV seminário
 internacional das Academias de Arquitetura e Urbanismo de
 Língua Portuguesa, [_A língua que habitamos_, v.
