@@ -1,5 +1,8 @@
+1830--1860: Nacionalismo programático
+=====================================
+
 A cidade brasileira do século XIX e a construção de discursos nacionais
-=======================================================================
+-----------------------------------------------------------------------
 
 A não centralidade do fato urbano na construção de discursos
 formativos da nacionalidade brasileira, ao longo do século XIX,

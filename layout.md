@@ -1,13 +1,11 @@
 intro.tex
 revisao.tex
-caracteriologia.tex
+singularidade.tex
 vistas.tex
 sublime.tex
 carater.tex
 findesiecle.tex
 queda.tex
-fall.tex
-reconstructing.tex
 reconstruindo.tex
 modernidade.tex
 profissional.tex

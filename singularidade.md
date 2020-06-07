@@ -1,5 +1,5 @@
-Paisagem urbana e caráter
-=========================
+A busca pela singularidade do caráter brasileiro na paisagem
+------------------------------------------------------------
 
 A construção de um discurso sobre o caráter moral e histórico da
 nação, no século XIX, implica distinguir os aspectos peculiares na
@@ -28,6 +28,10 @@ mundo cartesiana de uma natureza --- inclusive humana --- imutável,
 arcabouço sobre o qual erigem-se as particularidades nacionais e
 individuais.
 
+Na deriva, apontada por Carolina Fedatto [-@fedatto:2013saber, 102], do
+conceito sociológico de "singularidade brasileira" para os estudos de
+história cultural urbana,
+
 No longo caminho trilhado pelos "estudos brasileiros" desde então, a
 simples exposição das particularidades nacionais tem degenerado não
 tanto no rumo dos nacionalismos militantes que levaram a Europa a duas
@@ -39,11 +43,6 @@ explicativos do Brasil no campo sociológico, observa-se que eles se
 situam no já citado espectro crítico que busca desvencilhar a cultura
 latinoamericana de uma dependência histórica com respeito aos marcos
 explicativos da cultura europeia.
-
-Na deriva, apontada por Carolina Fedatto [-@fedatto:2013saber, p.
-102], do conceito sociológico de "singularidade brasileira" para os
-estudos de história cultural urbana,
-
 
 Na hierarquia acadêmica dos gêneros pictóricos, os temas religiosos e
 mitológicos --- estes compreendendo também a história antiga --- são

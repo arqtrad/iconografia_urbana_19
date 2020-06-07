@@ -1,5 +1,8 @@
+1860--1910: inquietações da nacionalidade na temática artística
+===============================================================
+
 A questão do caráter nacional na arte e na crítica da cidade
-============================================================
+------------------------------------------------------------
 
 Na crítica de arte brasileira durante ao menos o meio século que se
 estende de 1880 a 1940, a questão do caráter nacional ganha espaço

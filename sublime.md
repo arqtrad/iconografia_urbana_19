@@ -1,5 +1,5 @@
 Sublime, Natureza e Cidade
-==========================
+--------------------------
 
 Debret, pintor de história oficial da corte portuguesa no Brasil, tem
 sua produção atualmente mais reconhecida à margem das encomendas

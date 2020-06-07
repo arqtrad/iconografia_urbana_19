@@ -1,29 +1,37 @@
-# O caráter nacional como lacuna na iconografia urbana brasileira do século XIX
+O caráter nacional como lacuna na arte e na arquitetura brasileiras do século XIX
+=================================================================================
 
 ![Authorea](https://github.com/dmcpatrimonio/iconografia_urbana_19/workflows/Authorea/badge.svg)
 
-## Projeto em andamento
+Projeto em andamento
+--------------------
 
 - Introdução
   - [Problema e estrutura](intro.md)
   - [Revisão bibliográfica](revisao.md)
-- [Paisagem urbana e caráter](caracteriologia.md)
-- 1800–1860: nacionalismo programático
-  - [](vistas.md)
-  - [](sublime.md)
+- Fundamentação teórica
+  - [A busca pela singularidade do caráter brasileiro na paisagem](caracteriologia.md)
+  - A literatura como fulcro do debate artístico luso-brasileiro
+  - Da "viagem filosófica" à etnografia
+- 1830–1860: nacionalismo programático
+  - [A cidade brasileira do século XIX e a construção de discursos nacionais](vistas.md)
+  - [Sublime, natureza e cidade](sublime.md)
 - 1860–1910: inquietações da nacionalidade na temática artística
-  - [](carater.md)
-  - [](findesiecle.md)
-  - [](queda.md)
-  - [](fall.md)
+  - [A questão do caráter nacional na arte e na crítica da cidade](carater.md)
+  - [A síntese pictórica do final do século](findesiecle.md)
+  - O papel da arte e da arquitetura na nação, da reforma Pedreira à guerra do Paraguai
 - 1910–1940: arte nacional como problema de estilo
-  - [](reconstructing.md)
-  - [](reconstruindo.md)
-  - [](modernidade.md)
-  - [](profissional.md)
+  - [Tradição e queda](queda.md) <!--fall.md-->
+  - [Reconstruindo a brasilidade](reconstruindo.md) <!--reconstructing.md-->
+  - [Modernidade e patrimônio urbano](modernidade.md)
+- Tradição, política e profissão
+  - A universalidade do classicismo à prova do tradicionalismo nacionalista
+  - O ocaso da literatura como marco interpretativo das artes
+  - [A tradição e a profissionalização da arquitetura](profissional.md)
 - [Conclusão](conclusao.md)
 
-## Publicação anterior
+Publicação anterior
+-------------------
 
 > Palazzo, Pedro Paulo. “A cidade na arte e a arte na cidade: vistas
 > urbanas no Brasil do século XIX”. In *A língua que habitamos,* actas do
@@ -31,6 +39,8 @@
 > Urbanismo de Língua Portuguesa, Vol. 5. A cidade construída e a cidade
 > sonhada. Belo Horizonte : Inhotim: AEAULP : Escola de Arquitetura da
 > Universidade Federal de Minas Gerais, 2017.
+
+### Resumo
 
 Durante o século XIX, artistas e viajantes estavam intensamente
 explorando o contexto natural e cultural do Brasil.
@@ -91,3 +101,4 @@ Nesse momento, ao final do século XIX, as perspectivas se restringem,
 a fotografia documenta os estertores de um regime político,
 da instituição escravista e de bairros inteiros apagados pela
 marcha do progresso republicano.
+

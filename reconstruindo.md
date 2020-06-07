@@ -1,5 +1,8 @@
+1910--1940: Arte nacional como problema de estilo
+=================================================
+
 Reconstruindo a Brasilidade
-===========================
+---------------------------
 
 Em contraste com a São Paulo de Monteiro Lobato, a qual ainda lutava
 para se desvencilhar do atraso criticado pelo autor, Rio de Janeiro na

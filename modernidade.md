@@ -1,5 +1,5 @@
-Modernity and Preservation
-==========================
+Modernidade e patrimônio urbano
+-------------------------------
 
 Mariano's national tradition, even more so than that of Monteiro Lobato and Ricardo Severo, hinged on the notion of ethnicity.
 For him, "the preference of man for the architecture of his homeland" had an emotional source, based on domestic reminiscence and unconscious references.

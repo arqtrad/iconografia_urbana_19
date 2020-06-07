@@ -1,5 +1,5 @@
 A síntese pictórica do final do século
-======================================
+--------------------------------------
 
 O próprio Meirelles, em suas telas da Guerra do Paraguai,
 acabaria se afastando do paradigma documental e se aproximando

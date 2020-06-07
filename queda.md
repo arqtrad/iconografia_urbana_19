@@ -1,5 +1,5 @@
 Tradição e Queda
-================
+----------------
 
 Os anos de crescimento econômico e efervescência cultural entre a
 renegociação da dívida externa (1902) e a Exposição do Centenário da
