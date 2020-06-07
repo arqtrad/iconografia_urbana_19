@@ -5,12 +5,12 @@ vpath %.yaml .:spec
 vpath default.% lib
 
 SRC    = $(wildcard *.md)
-LATEX := $(patsubst %.md,tex/%.md, $(SRC))
+LATEX := $(patsubst %.md,%.tex, $(SRC))
 PAGES := $(patsubst %,tmp/%, $(SRC))
 
 authorea : $(LATEX)
 
-tex/%.md : %.md authorea.yaml biblio.bib
+%.tex : %.md authorea.yaml biblio.bib
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
 		palazzo/pandoc-xnos:edge -o $@ -d spec/authorea.yaml $<
 
