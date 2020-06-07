@@ -10,7 +10,7 @@ PAGES := $(patsubst %,tmp/%, $(SRC))
 
 authorea : $(LATEX)
 
-%.tex : %.md authorea.yaml biblio.bib
+tex/%.md : %.md authorea.yaml biblio.bib
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
 		palazzo/pandoc-xnos:edge -o $@ -d spec/authorea.yaml $<
 
