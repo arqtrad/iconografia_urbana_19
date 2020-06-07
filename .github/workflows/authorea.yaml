@@ -63,8 +63,6 @@ jobs:
       with:
         name: sections
         path: ${{ github.workspace }}/
-    - name: Merge changes from master branch
-      run: git merge origin/master
     - name: Commit changes to Authorea branch
       run: |
         cd ${{ github.workspace }}
