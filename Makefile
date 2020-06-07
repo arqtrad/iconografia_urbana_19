@@ -5,7 +5,7 @@ vpath %.yaml .:spec
 vpath default.% lib
 
 SRC    = $(wildcard *.md)
-LATEX := $(patsubst %.md,%.tex, $(SRC))
+LATEX := $(patsubst %.md,tex/%.md, $(SRC))
 PAGES := $(patsubst %,tmp/%, $(SRC))
 
 authorea : $(LATEX)
