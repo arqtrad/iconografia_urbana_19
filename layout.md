@@ -1,4 +1,5 @@
 intro.tex
+revisao.tex
 vistas.tex
 carater.tex
 queda.tex
