@@ -50,7 +50,7 @@ jobs:
     env:
       commit_message: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: pandoc
     if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/iconografia_urbana_19'
     steps:
     - name: Checkout authorea branch
