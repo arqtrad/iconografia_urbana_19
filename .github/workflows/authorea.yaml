@@ -22,7 +22,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: sections
-        path: 'tex/*.md'
+        path: '*.tex'
   build:
     runs-on: ubuntu-latest
     steps:
