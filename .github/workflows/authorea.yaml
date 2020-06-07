@@ -15,7 +15,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Convert from Pandoc-Markdown to LaTeX
-      run: make authorea
+      run: |
+        mkdir -p tex
+        make authorea
     - name: Upload LaTeX files
       uses: actions/upload-artifact@v2
       with:
