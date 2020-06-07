@@ -1,2 +1,1 @@
-intro.md vistas.md carater.md queda.md reconstruindo.md modernidade.md
-profissional.md conclusao.md
+o941clduohk.tex
