@@ -1,7 +1,10 @@
 intro.tex
 revisao.tex
+singularidade.tex
 vistas.tex
+sublime.tex
 carater.tex
+findesiecle.tex
 queda.tex
 reconstruindo.tex
 modernidade.tex

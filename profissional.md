@@ -1,5 +1,5 @@
-Tradition and the Professional Architect
-========================================
+A tradição e a profissionalização da arquitetura
+------------------------------------------------
 
 The onset of the Modern movement in Brazilian architecture thus
 entailed a power struggle between the proponents of the neocolonial
