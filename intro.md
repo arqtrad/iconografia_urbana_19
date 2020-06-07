@@ -36,16 +36,16 @@ arquitetônica. A formulação discursiva do caráter artístico nacional,
 nesse âmbito, faz pouco caso da periodização convencional da história
 política, sendo melhor divida em três fases distintas:
 
-(1) Da Independência até a década de 1870, a crítica e a historiografia
-    assumem o papel de afirmação de uma identidade nacional, ainda que
-    prospectiva, mas na produção pictórica assim como no ofício
-    historiográfico se percebem os primeiros sinais de uma inquietação
-    com o ambiente cultural brasileiro;
-(2) Da década de 1860 até a de 1910, o caráter nacional é posto
+(1) Da Independência até a década de 1860, a crítica e a historiografia
+    assumem, como é sabido, o papel de afirmação de uma identidade
+    nacional, ainda que prospectiva; ainda assim, na produção artística
+    bem como na sua crítica se percebem os primeiros sinais de uma
+    inquietação com o ambiente cultural brasileiro.
+(2) De finais da década de 1860 até a de 1910, o caráter nacional é posto
     claramente como um problema artístico a ser resolvido no futuro ---
     resolução que passará, por influência da crítica literária coetânea,
     predominantemente pela questão dos temas e objetos da produção
-    artística;
+    artística.
 (3) Da década de 1910 até o início da década de 1940, a crescente
     inserção dos arquitetos no universo do discurso erudito e político
     leva à projeção do problema do caráter nacional não mais no futuro,

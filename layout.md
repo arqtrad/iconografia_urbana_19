@@ -2,6 +2,7 @@ intro.tex
 revisao.tex
 
 caracteriologia.tex
+
 vistas.tex
 sublime.tex
 

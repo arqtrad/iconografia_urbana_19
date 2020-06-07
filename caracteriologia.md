@@ -1,5 +1,5 @@
-Caráter e pintura de paisagem
-=============================
+Paisagem urbana e caráter
+=========================
 
 A construção de um discurso sobre o caráter moral e histórico da
 nação, no século XIX, implica distinguir os aspectos peculiares na
@@ -80,5 +80,4 @@ imaginada. A literatura do início do século XX, programaticamente
 comprometida com um projeto de modernização cultural, tem relativo
 sucesso em relegar essa figuração da civilização oitocentista ao papel
 de modorrento retrato do atraso nacional [@bernd:1992literatura].
-
 

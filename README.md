@@ -1,12 +1,25 @@
-A cidade na arte e a arte na cidade: Vistas urbanas no Brasil do século XIX
-===========================================================================
+# O caráter nacional como lacuna na iconografia urbana brasileira do século XIX
 
 ![Authorea](https://github.com/dmcpatrimonio/iconografia_urbana_19/workflows/Authorea/badge.svg)
 
-Texto completo disponível nos anais do IV seminário
+## Projeto em andamento
+
+- Introdução
+  - [Problema e estrutura](intro.md)
+  - [Revisão bibliográfica](revisao.md)
+- [Paisagem urbana e caráter](caracteriologia.md)
+- 1800–1860
+- 1860–1910
+- 1910–1940
+- [Conclusão](conclusao.md)
+
+## Publicação anterior
+
+Palazzo, Pedro Paulo. A cidade na arte e a arte na cidade: Vistas
+urbanas no Brasil do século XIX. IV seminário
 internacional das Academias de Arquitetura e Urbanismo de
-Língua Portuguesa, [_A língua que habitamos_, v.
-5](http://aeaulp.com/alinguaquehabitamos/index.php/pt/publicacao)
+Língua Portuguesa, [*A língua que habitamos*, v.
+5](http://aeaulp.com/alinguaquehabitamos/index.php/pt/publicacao). Belo Horizonte : Inhotim, 2015.
 
 Durante o século XIX, artistas e viajantes estavam intensamente
 explorando o contexto natural e cultural do Brasil.
