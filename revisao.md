@@ -11,7 +11,7 @@ de arquitetura no Império e na primeira República reivindica uma
 consciência da trajetória histórica brasileira como chancela da sua
 independência cultural.
 
-Ultrapassando o escopo restritivo da encomenda oficial, a temática da
+Ultrapassando o escopo da encomenda oficial, a temática da
 cidade na literatura e na pintura passa a representar, no âmbito da
 encomenda privada ou da produção artística autônoma, a imagem dos
 olhares cambiantes lançados pelas elites intelectuais e econômicas

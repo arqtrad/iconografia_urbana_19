@@ -2,7 +2,7 @@ Introdução
 ==========
 
 No Brasil de meados do século XIX, a pintura paisagística e a literatura
-crítica ou cronística apresentam a cidade e a arquitetura como
+crítica ou historiográfica apresentam a cidade e a arquitetura como
 instrumentos privilegiados na articulação de identidades e na construção
 antropológica da nacionalidade, construção esta que é característica das
 periferias pós-coloniais [@stocking:1982afterword47, 173]. O processo
@@ -30,7 +30,7 @@ caráter nacional formulado no discurso crítico.
 
 A problematização da identidade brasileira por meio da arte e da
 representação pictórica do espaço urbano se desenrola, então, segundo a
-lógica própria ao desenvolvimento da crítica de arte como gênero
+lógica própria ao desenvolvimento da crítica de arte enquanto gênero
 literário no Brasil, bem como à profissionalização da disciplina
 arquitetônica. A formulação discursiva do caráter artístico nacional,
 nesse âmbito, faz pouco caso da periodização convencional da história
@@ -38,9 +38,10 @@ política, sendo melhor divida em três fases distintas:
 
 (1) Da Independência até a década de 1870, a crítica e a historiografia
     assumem o papel de afirmação de uma identidade nacional, ainda que
-    prospectiva, mas na produção pictórica se percebem os primeiros
-    sinais de uma inquietação com o ambiente cultural brasileiro;
-(2) Da década de 1870 até a de 1910, o caráter nacional é posto
+    prospectiva, mas na produção pictórica assim como no ofício
+    historiográfico se percebem os primeiros sinais de uma inquietação
+    com o ambiente cultural brasileiro;
+(2) Da década de 1860 até a de 1910, o caráter nacional é posto
     claramente como um problema artístico a ser resolvido no futuro ---
     resolução que passará, por influência da crítica literária coetânea,
     predominantemente pela questão dos temas e objetos da produção
