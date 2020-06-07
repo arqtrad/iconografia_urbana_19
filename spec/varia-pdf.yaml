@@ -1,0 +1,23 @@
+from            : markdown
+to              : pdf
+output-file     : palazzo-iconografia_urbana.pdf
+fail-if-warnings: true
+standalone      : true
+file-scope      : true
+bibliography    : 'bibliography/biblio.bib'
+cite-method     : citeproc
+metadata-file   : metadata.yaml
+filters:
+- pandoc-xnos
+resource-path:
+- .
+- figures
+input-files:
+- intro.md
+- vistas.md
+- carater.md
+- queda.md
+- reconstruindo.md
+- modernidade.md
+- profissional.md
+- conclusao.md

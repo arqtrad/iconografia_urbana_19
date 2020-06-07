@@ -89,3 +89,7 @@ sua limitação diante do sublime. Nesse momento, ao final do século
 XIX, as perspectivas se restringem, a fotografia documenta os
 estertores de um regime político, da instituição escravista e de
 bairros inteiros apagados pela marcha do progresso republicano.
+
+Referências bibliográficas
+==========================
+

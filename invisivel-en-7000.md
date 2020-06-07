@@ -62,18 +62,18 @@ In the book that was the synthesis of his early thinking, *A Arte Brasileira* (B
 
 > One concludes, then, that this art is missing native features and originality, primordial qualities for the founding of a School. 
 
-> . . . . The defining feature of our art is cosmopolitanism, and a nation, to have a School, needs, foremost, a national art. [@gonzaga-duque:1995kq, p. 258--259]
+> . . . . The defining feature of our art is cosmopolitanism, and a nation, to have a School, needs, foremost, a national art. [@gonzagaduque:1995arte, p. 258--259]
 
 He was not particularly excited by earlier art forms, however.
 Even the monumental architecture of the colonial period (1530--1808), which so captivated later writers, was to him:
 
-> . . . . A flagrant evidence of bad taste and lack of intelligence .\ .\ .\ . [@gonzaga-duque:1995kq, p. 74]
+> . . . . A flagrant evidence of bad taste and lack of intelligence .\ .\ .\ . [@gonzagaduque:1995arte, p. 74]
 
-To their credit, Gonzaga Duque conceded, colonial painters such as Manoel da Cunha (1737--1809) had, at the very least, a sort of crafty authenticity about them [@gonzaga-duque:1995kq, p. 81]
+To their credit, Gonzaga Duque conceded, colonial painters such as Manoel da Cunha (1737--1809) had, at the very least, a sort of crafty authenticity about them [@gonzagaduque:1995arte, p. 81]
 For him, then, differently from the European romantics, national character was not to be extracted from the achievements of previous eras.
 It was something yet to be produced out of the maturing of late nineteenth-century artists.
 On this regard, even a promising young painter such as Amoedo---to whom Gonzaga Duque commissioned his portrait---was censured for the feebleness of his subjects.
-National character was thus not to be found in any specific style, but merely in the choice of proper subject matter, chiefly Indians [@gonzaga-duque:1995kq, p. 185]
+National character was thus not to be found in any specific style, but merely in the choice of proper subject matter, chiefly Indians [@gonzagaduque:1995arte, p. 185]
 
 Later on, though, in 1909, Gonzaga Duque would commend Amoedo for having outgrown Indianism, "vanquished by the assimilating force of a superior environment" [@gonzagaduque:1929contemporaneos, p. 13]:
 European culture, in the form of classical nudes and mythological scenes.
@@ -248,7 +248,13 @@ Following his former patron, Costa held that it was, instead, in the simple arch
 After Lucio Costa's conversion to modernism, he authored in 1937 an article describing what he held to be the natural development of traditional Brazilian architecture.
 True to his roots, he was speaking of residential architecture built by masons and carpenters, which remained impervious to:
 
-> . . . . The unforeseen development of bad architecture teaching---giving future architects a whole, confused "technical-decorative" education, with no link whatsoever with life, and not explaining them the *why* of each element, nor the deep reasons that conditioned, in each period, the appearance of common features, that is, of a style .\ .\ .\ . [@costa:2007aa, p. 93]
+> . . . . The unforeseen development of bad architecture
+> teaching---giving future architects a whole, confused
+> "technical-decorative" education, with no link whatsoever with life,
+> and not explaining them the *why* of each element, nor the deep
+> reasons that conditioned, in each period, the appearance of common
+> features, that is, of a style .\ .\ .\ . [@costa:1937documentacao1, p.
+> 39]
 
 Because Costa did not focus his narrative on learned architecture, he was able to circumvent the problem of "bad teaching", and to argue for the occurrence of an authentic traditional architecture as far forward as 1910.
 He could thereby synchronize the decay precisely with the onset of the traditional architecture movement to which he had previously belonged, and which he now condemned.
@@ -257,7 +263,7 @@ an original period of authentic national character, followed by another of prete
 the possibility of overcoming that decay by promoting a certain architectural movement;
 the defense of technical modernization and aesthetic advance while remaining anchored in that authentic national tradition.
 
-A few years later, though, Lucio Costa drifted from the broad sociological picture of national character to a romantic view favoring individual artistic intent [@costa:2007ab, p. 113] and personal genius [@costa:2007ac, p. 125], both embodied in his contemporary Oscar Niemeyer.
+A few years later, though, Lucio Costa drifted from the broad sociological picture of national character to a romantic view favoring individual artistic intent [@costa:2007consideracoes, p. 113] and personal genius [@ferraz:1948depoimento, 2], both embodied in his contemporary Oscar Niemeyer.
 In this, he was probably influenced by his acquaintance and driving force behind the creation of the National Heritage Service (`SPHAN`), modernist poet Mário de Andrade.
 
 Although Costa put forward the thesis of a chain of authentic architecture broken only by the neocolonial movement, his practice as official of the `SPHAN` effectively upheld Mariano's view that proper traditional Brazilian architecture did not reach far beyond 1800.
