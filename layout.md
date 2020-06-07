@@ -1,8 +1,1 @@
-intro.tex
-vistas.tex
-carater.tex
-queda.tex
-reconstruindo.tex
-modernidade.tex
-profissional.tex
-conclusao.tex
+6fr1t0lkfk4.html
