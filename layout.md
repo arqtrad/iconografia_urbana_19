@@ -1,8 +1,8 @@
-intro.tex
-vistas.tex
-carater.tex
-queda.tex
-reconstruindo.tex
-modernidade.tex
-profissional.tex
-conclusao.tex
+intro.md
+vistas.md
+carater.md
+queda.md
+reconstruindo.md
+modernidade.md
+profissional.md
+conclusao.md
