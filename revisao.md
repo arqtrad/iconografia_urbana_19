@@ -1,3 +1,8 @@
+<!--
+   -Contra uma história da arte e da arquitetura pelo método dos ciclos
+   -econômicos ou políticos.
+   -->
+
 Alguns aspectos da ideologia da nação brasileira no século XIX têm
 sido tratados de modo recorrente na produção científica atual:
 mormente, o papel fulcral da Academia Imperial de Belas-Artes na

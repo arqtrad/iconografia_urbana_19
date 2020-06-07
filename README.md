@@ -25,7 +25,7 @@ Projeto em andamento
   - [Reconstruindo a brasilidade](reconstruindo.md) <!--reconstructing.md-->
   - [Modernidade e patrimônio urbano](modernidade.md)
 - Tradição, política e profissão
-  - A universalidade do classicismo à prova do tradicionalismo nacionalista
+  - Regionalismo e crítica: a autenticidade da cidade histórica à prova da interpretação erudita
   - O ocaso da literatura como marco interpretativo das artes
   - [A tradição e a profissionalização da arquitetura](profissional.md)
 - [Conclusão](conclusao.md)
