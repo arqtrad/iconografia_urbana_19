@@ -1,1 +1,1 @@
-O caráter nacional como lacuna na iconografia urbana brasileira do século XIX
+O caráter nacional como lacuna na arte e na arquitetura brasileiras do século XIX
