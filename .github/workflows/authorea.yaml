@@ -42,7 +42,7 @@ jobs:
     - name: Test PDF export
       uses: docker://pandoc/latex:2.9.2.1
       with:
-        args: "-d spec/latex2pdf.yaml"
+        args: "-d spec/varia-pdf.yaml"
     - name: Upload PDF for manual inspection
       uses: actions/upload-artifact@v2
       with:

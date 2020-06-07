@@ -1,7 +1,8 @@
 from            : markdown
-to              : latex
+to              : pdf
+output-file     : palazzo-iconografia_urbana.pdf
 fail-if-warnings: true
-standalone      : false
+standalone      : true
 file-scope      : true
 bibliography    : 'bibliography/biblio.bib'
 cite-method     : biblatex
@@ -11,3 +12,12 @@ filters:
 resource-path:
 - .
 - figures
+input-files:
+- intro.md
+- vistas.md
+- carater.md
+- queda.md
+- reconstruindo.md
+- modernidade.md
+- profissional.md
+- conclusao.md
