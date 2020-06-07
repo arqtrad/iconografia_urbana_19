@@ -9,6 +9,7 @@ LATEX := $(patsubst %.md,%.tex, $(SRC))
 PAGES := $(patsubst %,tmp/%, $(SRC))
 
 authorea : $(LATEX)
+	-rm README.tex layout.tex title.tex
 
 %.tex : %.md authorea.yaml biblio.bib
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
