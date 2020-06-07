@@ -5,7 +5,7 @@ fail-if-warnings: true
 standalone      : true
 file-scope      : true
 bibliography    : 'bibliography/biblio.bib'
-cite-method     : biblatex
+cite-method     : citeproc
 metadata-file   : metadata.yaml
 filters:
 - pandoc-xnos

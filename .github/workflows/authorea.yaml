@@ -40,14 +40,14 @@ jobs:
         repository: citation-style-language/styles.git
         path: styles
     - name: Test PDF export
-      uses: docker://palazzo/pandoc-xnos:edge
+      uses: docker://palazzo/pandoc-xnos:2.9.2.1
       with:
         args: "-d spec/varia-pdf.yaml"
     - name: Upload PDF for manual inspection
       uses: actions/upload-artifact@v2
       with:
         name: build-pdf
-        path: build.pdf
+        path: palazzo-iconografia_urbana.pdf
   authorea:
     env:
       commit_message: ${{ github.event.head_commit.message }}
