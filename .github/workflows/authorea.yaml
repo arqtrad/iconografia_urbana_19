@@ -20,7 +20,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: sections
-        path: '*.tex'
+        path: 'tex/*.md'
   build:
     runs-on: ubuntu-latest
     needs: pandoc
