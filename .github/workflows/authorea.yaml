@@ -70,6 +70,6 @@ jobs:
         git config --local user.name  "Automated build"
         git merge origin/master
         git add .
-        git commit -m "${{ env.commit_message }}" -a
+        git commit -m "${{ env.commit_message }}" -a || git status
         git pull
         git push
