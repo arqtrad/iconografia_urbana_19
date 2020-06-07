@@ -1,8 +1,2 @@
-intro.md
-vistas.md
-carater.md
-queda.md
-reconstruindo.md
-modernidade.md
-profissional.md
-conclusao.md
+intro.md vistas.md carater.md queda.md reconstruindo.md modernidade.md
+profissional.md conclusao.md
