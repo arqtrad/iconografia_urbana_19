@@ -28,23 +28,21 @@ mundo cartesiana de uma natureza --- inclusive humana --- imutável,
 arcabouço sobre o qual erigem-se as particularidades nacionais e
 individuais.
 
-<!--
-   -No longo caminho trilhado pelos "estudos brasileiros" desde então, a
-   -simples exposição das particularidades nacionais tem degenerado não
-   -tanto no rumo dos nacionalismos militantes que levaram a Europa a duas
-   -guerras mundiais, mas principalmente na formulação de um princípio de
-   -"singularidade brasileira" a alicerçar as teses de autores do século
-   -XX, tais como Gilberto Freyre, Sergio Buarque de Holanda, Raymundo
-   -Faoro e Jessé Souza. Sem entrar no mérito desses seminais marcos
-   -explicativos do Brasil no campo sociológico, observa-se que eles se
-   -situam no já citado espectro crítico que busca desvencilhar a cultura
-   -latinoamericana de uma dependência histórica com respeito aos marcos
-   -explicativos da cultura europeia.
-   -
-   -Na deriva, apontada por Carolina Fedatto [-@fedatto:2013saber, p.
-   -102], do conceito sociológico de "singularidade brasileira" para os
-   -estudos de história cultural urbana,
-   -->
+No longo caminho trilhado pelos "estudos brasileiros" desde então, a
+simples exposição das particularidades nacionais tem degenerado não
+tanto no rumo dos nacionalismos militantes que levaram a Europa a duas
+guerras mundiais, mas principalmente na formulação de um princípio de
+"singularidade brasileira" a alicerçar as teses de autores do século
+XX, tais como Gilberto Freyre, Sergio Buarque de Holanda, Raymundo
+Faoro e Jessé Souza. Sem entrar no mérito desses seminais marcos
+explicativos do Brasil no campo sociológico, observa-se que eles se
+situam no já citado espectro crítico que busca desvencilhar a cultura
+latinoamericana de uma dependência histórica com respeito aos marcos
+explicativos da cultura europeia.
+
+Na deriva, apontada por Carolina Fedatto [-@fedatto:2013saber, p.
+102], do conceito sociológico de "singularidade brasileira" para os
+estudos de história cultural urbana,
 
 
 Na hierarquia acadêmica dos gêneros pictóricos, os temas religiosos e
@@ -55,17 +53,15 @@ gêneros ocupam o patamar superior, predominantemente preenchido pela
 encomenda da Igreja, do Estado, ou dos agentes privados da elite
 política.
 
-<!--
-   -Esta hierarquia se rebate no influente tomo "Arquitetura" da
-   -Enciclopédia de Diderot e d'Alembert redigido por Quatremère de
-   -Quincy. No verbete "Caráter" [-@quatremere:1788caractere], Quatremère
-   -estabelece um gradiente expressivo que começa com os caracteres
-   -"essenciais" dos princípios construtivos, passando pelas respostas
-   -"relativas", ou seja, nacionais a condicionantes geográficas,
-   -climáticas e culturais, e terminando nas características "imitativas",
-   -que consistem em individualizar um edifício segundo sua função ou
-   -outros requisitos particularizados. 
-   -->
+Esta hierarquia se rebate no influente tomo "Arquitetura" da
+Enciclopédia de Diderot e d'Alembert redigido por Quatremère de
+Quincy. No verbete "Caráter" [-@quatremere:1788caractere], Quatremère
+estabelece um gradiente expressivo que começa com os caracteres
+"essenciais" dos princípios construtivos, passando pelas respostas
+"relativas", ou seja, nacionais a condicionantes geográficas,
+climáticas e culturais, e terminando nas características "imitativas",
+que consistem em individualizar um edifício segundo sua função ou
+outros requisitos particularizados. 
 
 No entanto, em contraste com as academias europeias, defensoras da
 hierarquia dos gêneros de pintura, o contexto artístico brasileiro no

@@ -9,8 +9,18 @@
   - [Revisão bibliográfica](revisao.md)
 - [Paisagem urbana e caráter](caracteriologia.md)
 - 1800–1860: nacionalismo programático
+  - [](vistas.md)
+  - [](sublime.md)
 - 1860–1910: inquietações da nacionalidade na temática artística
+  - [](carater.md)
+  - [](findesiecle.md)
+  - [](queda.md)
+  - [](fall.md)
 - 1910–1940: arte nacional como problema de estilo
+  - [](reconstructing.md)
+  - [](reconstruindo.md)
+  - [](modernidade.md)
+  - [](profissional.md)
 - [Conclusão](conclusao.md)
 
 ## Publicação anterior
