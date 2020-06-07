@@ -8,18 +8,19 @@
   - [Problema e estrutura](intro.md)
   - [Revisão bibliográfica](revisao.md)
 - [Paisagem urbana e caráter](caracteriologia.md)
-- 1800–1860
-- 1860–1910
-- 1910–1940
+- 1800–1860: nacionalismo programático
+- 1860–1910: inquietações da nacionalidade na temática artística
+- 1910–1940: arte nacional como problema de estilo
 - [Conclusão](conclusao.md)
 
 ## Publicação anterior
 
-Palazzo, Pedro Paulo. A cidade na arte e a arte na cidade: Vistas
-urbanas no Brasil do século XIX. IV seminário
-internacional das Academias de Arquitetura e Urbanismo de
-Língua Portuguesa, [*A língua que habitamos*, v.
-5](http://aeaulp.com/alinguaquehabitamos/index.php/pt/publicacao). Belo Horizonte : Inhotim, 2015.
+> Palazzo, Pedro Paulo. “A cidade na arte e a arte na cidade: vistas
+> urbanas no Brasil do século XIX”. In *A língua que habitamos,* actas do
+> IV Seminário Internacional da Academia das Escolas de Arquitetura e
+> Urbanismo de Língua Portuguesa, Vol. 5. A cidade construída e a cidade
+> sonhada. Belo Horizonte : Inhotim: AEAULP : Escola de Arquitetura da
+> Universidade Federal de Minas Gerais, 2017.
 
 Durante o século XIX, artistas e viajantes estavam intensamente
 explorando o contexto natural e cultural do Brasil.
