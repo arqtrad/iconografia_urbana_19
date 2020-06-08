@@ -1,6 +1,7 @@
 ## Generated binary files (PDF, Word, etc.) go here
 *.pdf
 *.docx
+.session.vim
 
 ## Jekyll
 _site/
