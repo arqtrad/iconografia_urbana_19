@@ -8,7 +8,7 @@ Projeto em andamento
 
 - Introdução
   - [Problema e estrutura](intro.md)
-  - [Revisão bibliográfica](revisao.md)
+  - [Periodização e recortes temáticos: um diálogo necessário](revisao.md)
 - Fundamentação teórica
   - [A busca pela singularidade do caráter brasileiro na paisagem](caracteriologia.md)
   - A literatura como fulcro do debate artístico luso-brasileiro
