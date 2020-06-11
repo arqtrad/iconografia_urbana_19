@@ -1,16 +1,15 @@
-O caráter nacional como lacuna na arte e na arquitetura brasileiras do século XIX
-=================================================================================
+# O caráter nacional como lacuna na arte e na arquitetura brasileiras do século XIX
 
 ![Authorea](https://github.com/dmcpatrimonio/iconografia_urbana_19/workflows/Authorea/badge.svg)
 
-Projeto em andamento
---------------------
+## Nacionalismo e cosmopolitismo na cidade luso-brasileira
 
 - Introdução
   - [Problema e estrutura](intro.md)
-  - [Periodização e recortes temáticos: um diálogo necessário](revisao.md)
-- Fundamentação teórica
-  - [A busca pela singularidade do caráter brasileiro na paisagem](caracteriologia.md)
+  - [Periodização e recortes temáticos](revisao.md)
+  - A cidade luso-brasileira no século XIX
+- Literatura e arte no mundo luso-brasileiro
+  - [A busca pela singularidade brasileira na paisagem](caracteriologia.md)
   - A literatura como fulcro do debate artístico luso-brasileiro
   - Da "viagem filosófica" à etnografia
 - 1830–1860: nacionalismo programático
@@ -19,12 +18,12 @@ Projeto em andamento
 - 1860–1910: inquietações da nacionalidade na temática artística
   - [A questão do caráter nacional na arte e na crítica da cidade](carater.md)
   - [A síntese pictórica do final do século](findesiecle.md)
-  - O papel da arte e da arquitetura na nação, da reforma Pedreira à guerra do Paraguai
+  - O papel da arquitetura na construção da nação, da reforma Pedreira à guerra do Paraguai
 - 1910–1940: arte nacional como problema de estilo
   - [Tradição e queda](queda.md) <!--fall.md-->
   - [Reconstruindo a brasilidade](reconstruindo.md) <!--reconstructing.md-->
   - [Modernidade e patrimônio urbano](modernidade.md)
-- Tradição, política e profissão
+- Tradição, política e profissão no século XX
   - Regionalismo e crítica: a autenticidade da cidade histórica à prova da interpretação erudita
   - O ocaso da literatura como marco interpretativo das artes
   - [A tradição e a profissionalização da arquitetura](profissional.md)
@@ -102,3 +101,12 @@ a fotografia documenta os estertores de um regime político,
 da instituição escravista e de bairros inteiros apagados pela
 marcha do progresso republicano.
 
+## License
+
+arte_cidade (c) 2020 by Pedro P. Palazzo
+
+arte_cidade is licensed under a
+Creative Commons Attribution 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
